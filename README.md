@@ -45,6 +45,7 @@ Feel free to snag a [![good first issue](https://img.shields.io/badge/good%20fir
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 ### 🌐 Web Development
 
